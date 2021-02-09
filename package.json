@@ -37,7 +37,7 @@
     "opencage-api-client": "^0.3.0"
   },
   "devDependencies": {
-    "codecov": "^3.1.0",
+    "codecov": "^3.7.1",
     "eslint": "^5.6.1",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-config-prettier": "^3.1.0",
